@@ -19,3 +19,4 @@ Open the folder, and allow the container to build.
 * picotool
 * bootterm (for serial monitoring) - see https://github.com/wtarreau/bootterm
 
+##Test
